@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-05T19:01:16</Created>
+	<LastChange>2020-03-05T19:01:16</LastChange></Metadata>
+	<Page imageFilename="Ts-235,9.jpg" imageWidth="5605" imageHeight="6929">
+	<ImageRegion id="r0">
+	<Coords points="342,347 327,3162 406,3162 421,347"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="5257,4658 5247,6584 5264,6584 5274,4658"/></ImageRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="995,932 995,933 1220,933 1220,1015 995,1015 995,1014 994,1014 994,932"/>
+	<TextEquiv conf="0.89175">
+	<Unicode>157.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="992,1228 992,1229 1219,1229 1219,1873 1218,1873 1218,2088 1217,2088 1217,2303 1216,2303 1216,2304 987,2304 987,2303 986,2303 986,2302 987,2302 987,2087 988,2087 988,1872 989,1872 989,1657 990,1657 990,1442 991,1442 991,1228"/>
+	<TextEquiv conf="0.87086">
+	<Unicode>158.
+159.
+160.
+161.
+162.
+163.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="4882,669 4882,670 4949,670 4949,749 4650,749 4650,669"/>
+	<TextEquiv conf="0.00124">
+	<Unicode>a</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="5069,897 5069,1086 5068,1086 5068,1130 1490,1130 1490,1021 1491,1021 1491,897"/>
+	<TextEquiv conf="0.88653">
+	<Unicode>"Es muß sich doch so verhalten!" ist kein Satz der Philo-
+Sophie. Dogmatismus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="3771,1239 3771,1323 1615,1323 1615,1239"/>
+	<TextEquiv conf="0.87204">
+	<Unicode>"Ich kann mir doch vorstellen ....!"</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="3108,1437 3108,1516 1608,1516 1608,1437"/>
+	<TextEquiv conf="0.96661">
+	<Unicode>Das Bewußtsein eine Welt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="4137,1636 4137,1729 1608,1729 1608,1636"/>
+	<TextEquiv conf="0.94680">
+	<Unicode>Das Bewußtsein eine super-ätherische Welt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="4808,1766 4808,1931 1609,1931 1609,1766"/>
+	<TextEquiv conf="0.93690">
+	<Unicode>"Die wahren Gegenstände, die das Universum aufbauen."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="4258,1984 4258,2140 1609,2140 1609,1984"/>
+	<TextEquiv conf="0.94737">
+	<Unicode>"Dasselbe jetzt tun, was ich früher meinte."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="5003,2208 5003,2325 2802,2325 2802,2324 2614,2324 2614,2323 2425,2323 2425,2322 2237,2322 2237,2321 2049,2321 2049,2320 1860,2320 1860,2319 1672,2319 1672,2318 1601,2318 1601,2208"/>
+	<TextEquiv conf="0.95055">
+	<Unicode>Wir glauben eine Bedeutung durch eine Situation erklären</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="1479,2425 1479,2426 1664,2426 1664,2427 1849,2427 1849,2428 2035,2428 2035,2429 2220,2429 2220,2430 2405,2430 2405,2431 2591,2431 2591,2432 2776,2432 2776,2433 2961,2433 2961,2434 3147,2434 3147,2435 3332,2435 3332,2436 3517,2436 3517,2437 3703,2437 3703,2438 3888,2438 3888,2439 4073,2439 4073,2440 4259,2440 4259,2441 4444,2441 4444,2442 4629,2442 4629,2443 4814,2443 4814,2534 4629,2534 4629,2533 4444,2533 4444,2532 4259,2532 4259,2531 4073,2531 4073,2530 3888,2530 3888,2529 3703,2529 3703,2528 3517,2528 3517,2527 3332,2527 3332,2526 3147,2526 3147,2525 2961,2525 2961,2524 2776,2524 2776,2523 2591,2523 2591,2522 2405,2522 2405,2521 2220,2521 2220,2520 2035,2520 2035,2519 1849,2519 1849,2518 1664,2518 1664,2517 1479,2517 1479,2516 1478,2516 1478,2425"/>
+	<TextEquiv conf="0.93052">
+	<Unicode>zu können, statt durch einen Vorgang. Die Situation ist
+leichter einprägbar als der Vorgang.</Unicode></TextEquiv></TextRegion></Page></PcGts>

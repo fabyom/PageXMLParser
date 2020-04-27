@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-05T19:00:56</Created>
+	<LastChange>2020-03-05T19:00:56</LastChange></Metadata>
+	<Page imageFilename="Ts-235,9.jpg" imageWidth="5605" imageHeight="6929">
+	<ImageRegion id="r0">
+	<Coords points="342,347 327,3162 406,3162 421,347"/></ImageRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="994,932 994,1014 1220,1015 1220,933"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="991,1228 986,2303 1216,2304 1221,1229"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1492,651 1483,2317 5062,2336 5070,670"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1478,2425 1478,2516 4814,2534 4814,2443"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r5">
+	<Coords points="5257,4658 5247,6584 5264,6584 5274,4658"/></ImageRegion></Page></PcGts>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-05T19:00:08</Created>
+	<LastChange>2020-03-05T19:00:08</LastChange></Metadata>
+	<Page imageFilename="Ts-235,8.jpg" imageWidth="5605" imageHeight="6929">
+	<SeparatorRegion id="r0">
+	<Coords points="1504,6578 1504,6580 2371,6580 2371,6578"/></SeparatorRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="5279,2104 5279,2660 5281,2660 5281,2104"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="2371,6549 2371,6580 5280,6581 5280,6550"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1012,880 1012,881 1237,881 1237,961 1012,961 1012,960 1011,960 1011,880"/>
+	<TextEquiv conf="0.84092">
+	<Unicode>138.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1012,1174 1012,1175 1240,1175 1240,1258 1012,1258 1012,1257 1011,1257 1011,1174"/>
+	<TextEquiv conf="0.90854">
+	<Unicode>139.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1015,1572 1015,1573 1239,1573 1239,1654 1015,1654 1015,1653 1014,1653 1014,1572"/>
+	<TextEquiv conf="0.92855">
+	<Unicode>140.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1238,1869 1238,2151 1013,2151 1013,2150 1012,2150 1012,1869"/>
+	<TextEquiv conf="0.91585">
+	<Unicode>141.
+142.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1013,2367 1013,2368 1237,2368 1237,2451 1013,2451 1013,2450 1012,2450 1012,2367"/>
+	<TextEquiv conf="0.73906">
+	<Unicode>143 ®</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="1012,2666 1012,2667 1239,2667 1239,2750 1012,2750 1012,2749 1011,2749 1011,2666"/>
+	<TextEquiv conf="0.64669">
+	<Unicode>144 ®</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1011,2967 1011,2968 1237,2968 1237,3250 1011,3250 1011,3249 1010,3249 1010,2967"/>
+	<TextEquiv conf="0.78038">
+	<Unicode>145 ®
+146.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="1012,3465 1012,3466 1236,3466 1236,3745 1235,3745 1235,3746 1011,3746 1011,3465"/>
+	<TextEquiv conf="0.95048">
+	<Unicode>147.
+148.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="1012,3962 1012,3963 1239,3963 1239,4241 1012,4241 1012,4240 1011,4240 1011,3962"/>
+	<TextEquiv conf="0.86548">
+	<Unicode>149.
+150.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="1238,4459 1238,4745 1012,4745 1012,4744 1011,4744 1011,4459"/>
+	<TextEquiv conf="0.91991">
+	<Unicode>151.
+152.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="1013,4960 1013,4961 1240,4961 1240,5043 1013,5043 1013,5042 1012,5042 1012,4960"/>
+	<TextEquiv conf="0.83001">
+	<Unicode>153.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="1012,5161 1012,5162 1238,5162 1238,5245 1012,5245 1012,5244 1011,5244 1011,5161"/>
+	<TextEquiv conf="0.91586">
+	<Unicode>154.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="1235,5566 1235,5649 1007,5649 1007,5648 1006,5648 1006,5566"/>
+	<TextEquiv conf="0.76768">
+	<Unicode>155.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="1231,5860 1231,5950 1005,5950 1005,5949 1004,5949 1004,5860"/>
+	<TextEquiv conf="0.93130">
+	<Unicode>156.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="5081,574 5081,1463 5083,1463 1502,1463 1502,1462 1501,1462 1501,1461 1502,1461 1502,574"/>
+	<TextEquiv conf="0.89867">
+	<Unicode>- 8 -
+"Ich hoffe, er wird kommen": ein Bericht über seinen
+Seelenzustand, oder eine Außerung seiner Hoffnung?
+Wenn wir die Frage "warum" unterdrücken, werden wir oft
+erst die wichtigen Tatsachen gewahr. Die nämlich in unseren
+Untersuchungen zu einer wort führen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="4885,1532 4885,1758 1495,1758 1495,1532"/>
+	<TextEquiv conf="0.96098">
+	<Unicode>Die für uns wichtigen Naturtatsachen sind solche, die
+wegen ihrer großen Allgemeinheit kaum je erwähnt werden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="4947,1866 4947,1957 1633,1957 1633,1956 1632,1956 1632,1866"/>
+	<TextEquiv conf="0.90937">
+	<Unicode>"Ich werde jetzt meinen Arm heben":ix% eine Vorhersage.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="5085,2063 5085,2241 1505,2241 1505,2240 1504,2240 1504,2063"/>
+	<TextEquiv conf="0.94118">
+	<Unicode>Die Verschiedenheit eines Wortgebrauchs gedeutet als Ver-
+schiedenheit der Gefühle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="5028,2363 5028,2580 1512,2580 1512,2579 1511,2579 1511,2363"/>
+	<TextEquiv conf="0.96515">
+	<Unicode>Nimm das allgemeine Reden der Philosophen ernst und mach
+eine praktische Anwendung von ihm!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="5024,2660 5024,2841 1510,2841 1510,2840 1509,2840 1509,2660"/>
+	<TextEquiv conf="0.95640">
+	<Unicode>Eine Sprache vorstellen heißt, sich eine Lebensform vor-
+stellen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="5193,2955 5193,3058 1625,3058 1625,3057 1624,3057 1624,2955"/>
+	<TextEquiv conf="0.94729">
+	<Unicode>Logische Analyse: die Beschreibung des Gebrauchs der Worte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="4912,3162 4912,3355 1503,3355 1503,3354 1502,3354 1502,3162"/>
+	<TextEquiv conf="0.96155">
+	<Unicode>"Wir müssen das suchen, was allen diesen Erscheinungen
+gemeinsam ist!"</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="4771,3443 4771,3552 1631,3552 1631,3551 1630,3551 1630,3443"/>
+	<TextEquiv conf="0.96401">
+	<Unicode>Ideale Sprache im Gegensatz zu unserer gewöhnlichen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="5029,3656 5029,3852 1500,3852 1500,3851 1499,3851 1499,3656"/>
+	<TextEquiv conf="0.91673">
+	<Unicode>Unsere Untersuchung richtet sich nicht auf die Erschein-
+ungen, sondern auf die "'Möglichkeiten' der Erscheinungen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="3251,3953 3251,4050 1627,4050 1627,3953"/>
+	<TextEquiv conf="0.94292">
+	<Unicode>Die Vagheit eines Begriffs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="4793,4151 4793,4349 1498,4349 1498,4348 1497,4348 1497,4151"/>
+	<TextEquiv conf="0.96462">
+	<Unicode>"Wenn man mich nicht fragt, so weiß ich es; wenn man
+mich fragt, so weiß ich's nicht."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="4959,4451 4959,4546 1635,4546 1635,4451"/>
+	<TextEquiv conf="0.95300">
+	<Unicode>"Aber ich weiß doch, was ich unter 'Sprache' verstehe!"</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="4735,4653 4735,4851 1507,4851 1507,4850 1506,4850 1506,4653"/>
+	<TextEquiv conf="0.95969">
+	<Unicode>Es braucht nicht den Logiker, damit er den Menschen
+zeigt, wie ein richtiger Satz ausschaut.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="3801,4953 3801,5045 1634,5045 1634,4953"/>
+	<TextEquiv conf="0.96361">
+	<Unicode>"Nur was Sinn hat, kann man denken."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="5040,5153 5040,5435 1505,5435 1505,5434 1504,5434 1504,5153"/>
+	<TextEquiv conf="0.91374">
+	<Unicode>"Der Sinn kann nicht schlechtweg unbestimmt sein. Ist er
+in einsmm Sinne unbestimmt, so muß seine Unbestimmtheit be-
+stimmt sein."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="1503,5527 1503,5528 4912,5528 4912,5766 1503,5766 1503,5765 1502,5765 1502,5527"/>
+	<TextEquiv conf="0.95033">
+	<Unicode>"Der Übergang voll "einige" zu "alle"; von der Ausnahme
+zur Regel, und umgekehrt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="4595,5856 4595,5941 1628,5941 1628,5856"/>
+	<TextEquiv conf="0.95433">
+	<Unicode>"Wie kann etwas der Ausdruck eines Gefühls sein?"</Unicode></TextEquiv></TextRegion></Page></PcGts>

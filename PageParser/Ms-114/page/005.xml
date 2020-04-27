@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-05T18:57:37</Created>
+	<LastChange>2020-03-05T18:57:37</LastChange></Metadata>
+	<Page imageFilename="Ts-235,5.jpg" imageWidth="5606" imageHeight="6929">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1160,901 1160,972 998,972 998,973 997,973 997,901"/>
+	<TextEquiv conf="0.94221">
+	<Unicode>81.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1162,1195 1162,1453 1163,1453 1163,1711 1164,1711 1164,1969 999,1969 999,1970 998,1970 998,1712 997,1712 997,1195"/>
+	<TextEquiv conf="0.84066">
+	<Unicode>82.
+83.
+84.
+85.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1165,2079 1165,2360 1002,2360 1002,2361 1001,2361 1001,2079"/>
+	<TextEquiv conf="0.89859">
+	<Unicode>86.
+87.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1163,2578 1163,2649 1004,2649 1004,2650 1003,2650 1003,2578"/>
+	<TextEquiv conf="0.89327">
+	<Unicode>88.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1165,2878 1165,3156 1004,3156 1004,3157 1003,3157 1003,2878"/>
+	<TextEquiv conf="0.91178">
+	<Unicode>89.
+90.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1167,3571 1167,3652 1008,3652 1008,3653 1007,3653 1007,3571"/>
+	<TextEquiv conf="0.95962">
+	<Unicode>91.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1171,3872 1171,4151 1011,4151 1011,4152 1010,4152 1010,3873 1009,3873 1009,3872"/>
+	<TextEquiv conf="0.85161">
+	<Unicode>92.
+93.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1254,4270 1254,4383 1010,4383 1010,4384 1009,4384 1009,4270"/>
+	<TextEquiv conf="0.73849">
+	<Unicode>94.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="1171,4467 1171,4548 1013,4548 1013,4549 1012,4549 1012,4467"/>
+	<TextEquiv conf="0.81672">
+	<Unicode>95.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1172,4755 1172,4848 1012,4848 1012,4755"/>
+	<TextEquiv conf="0.76701">
+	<Unicode>96.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="1173,5264 1173,5345 1015,5345 1015,5346 1014,5346 1014,5264"/>
+	<TextEquiv conf="0.70020">
+	<Unicode>97.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="1171,5563 1171,5644 1015,5644 1015,5645 1014,5645 1014,5563"/>
+	<TextEquiv conf="0.84604">
+	<Unicode>98.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="1170,5965 1170,6044 1012,6044 1012,6045 1011,6045 1011,5965"/>
+	<TextEquiv conf="0.90471">
+	<Unicode>99.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="4866,607 4866,957 4867,957 4867,1293 1487,1293 1487,967 1486,967 1486,615 1824,615 1824,614 2162,614 2162,613 2500,613 2500,612 2838,612 2838,611 3176,611 3176,610 3514,610 3514,609 3852,609 3852,608 4190,608 4190,607"/>
+	<TextEquiv conf="0.90358">
+	<Unicode>= Du
+"Ich habe etwas mit dieser Gebärde gemeint, was ich nur
+durch diese Gebärde ausdrücken kann."
+Ein Wort in einer bestimmten Bedeutung hören.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="4874,1398 4874,1582 4536,1582 4536,1583 4197,1583 4197,1584 3858,1584 3858,1585 3519,1585 3519,1586 3181,1586 3181,1587 2842,1587 2842,1588 2503,1588 2503,1589 1486,1589 1486,1398"/>
+	<TextEquiv conf="0.95750">
+	<Unicode>"Eine Menge wohlbekannte Pfade führen von diesen Worten
+aus in allen Richtungen."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="5115,1694 5115,2156 4792,2156 4792,2157 4468,2157 4468,2158 4144,2158 4144,2159 3821,2159 3821,2160 3497,2160 3497,2161 3173,2161 3173,2162 2849,2162 2849,2163 2526,2163 2526,2164 2202,2164 2202,2165 1878,2165 1878,2166 1555,2166 1555,2167 1554,2167 1554,1695 1553,1695 1553,1694"/>
+	<TextEquiv conf="0.91644">
+	<Unicode>"Wir sind geneigt, zu sagen, ...."
+"Das Wort kommt auf eine besondre Weise." Auf welche Weise?
+Worte sind Taten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="4939,2286 4939,2466 4595,2466 4595,2467 4250,2467 4250,2468 3905,2468 3905,2469 3560,2469 3560,2470 3215,2470 3215,2471 2870,2471 2870,2472 2525,2472 2525,2473 2180,2473 2180,2474 1835,2474 1835,2475 1490,2475 1490,2476 1489,2476 1489,2286"/>
+	<TextEquiv conf="0.94414">
+	<Unicode>Schau auf die Umgebung des Ausdrucks der seelischen Er-
+scheinungen!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="5003,2582 5003,2765 4652,2765 4652,2766 4301,2766 4301,2767 3950,2767 3950,2768 3598,2768 3598,2769 3247,2769 3247,2770 2896,2770 2896,2771 1490,2771 1490,2582"/>
+	<TextEquiv conf="0.94370">
+	<Unicode>"Einen Ausdruck in dieser Bedeutung hören." Dies Akkord-
+folge als Schluß empfinden, hören.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="4077,2867 4077,2971 1614,2971 1614,2867"/>
+	<TextEquiv conf="0.81076">
+	<Unicode>Die '‘Ungreifbarkeit' gewisser Erlebnisse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="5063,3077 5063,3445 4706,3445 4706,3446 4349,3446 4349,3447 3992,3447 3992,3448 3634,3448 3634,3449 3277,3449 3277,3450 2920,3450 2920,3451 2562,3451 2562,3452 1490,3452 1490,3077"/>
+	<TextEquiv conf="0.91239">
+	<Unicode>"Eine Bedeutung schwebt mir vor." "Wenn ich in der Sprache
+denke, so schweben mir ni®ht neben dem sprachlichen Aus-
+druck noch Bedeutungen vor; sondern die Sprache ist das
+Vehikel des Denkens."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="4994,3572 4994,3763 1494,3763 1494,3573 1495,3573 1495,3572"/>
+	<TextEquiv conf="0.94706">
+	<Unicode>‚Das Bild, wodurch ein Wort erklärt wird, ein schlechter
+Führer, wenn man die Funktion des Worts kennenlernen will.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="4835,3863 4835,4374 4514,4374 4514,4375 4192,4375 4192,4376 3870,4376 3870,4377 1618,4377 1618,3864 1617,3864 1617,3863"/>
+	<TextEquiv conf="0.94428">
+	<Unicode>Die Sprache ein Instrument im Sprachspiel.
+Das Bild vom inneren Vorgang.
+Wie macht man es: dies, und nicht jenes,meinen? Wmxzw</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="4834,4429 4834,4632 4504,4632 4504,4633 4170,4633 4170,4634 3836,4634 3836,4635 3502,4635 3502,4636 3168,4636 3168,4637 2834,4637 2834,4638 2500,4638 2500,4639 2166,4639 2166,4640 1832,4640 1832,4641 1499,4641 1499,4642 1498,4642 1498,4435 1831,4435 1831,4434 2165,4434 2165,4433 2499,4433 2499,4432 2833,4432 2833,4431 3167,4431 3167,4430 3501,4430 3501,4429"/>
+	<TextEquiv conf="0.96477">
+	<Unicode>Um zu wissen, was Denken ist, beobachte ich mich beim
+Denken.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="5019,4766 5019,4946 5020,4946 5020,5132 4668,5132 4668,5133 4315,5133 4315,5134 3962,5134 3962,5135 3610,5135 3610,5136 3257,5136 3257,5137 2904,5137 2904,5138 2552,5138 2552,5139 2199,5139 2199,5140 1846,5140 1846,5141 1494,5141 1494,5142 1493,5142 1493,4768 1844,4768 1844,4767 2197,4767 2197,4766"/>
+	<TextEquiv conf="0.92127">
+	<Unicode>Man ist in der Philosophie in Gefahr, einen Mythus des
+Symbolismus zu produzieren, oder einen der seelischen Vor-
+gänge; statt einfach zu sagen, was geder weiß und zugeben
+muß. 1 '</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="4959,5260 4959,5352 4626,5352 4626,5353 4293,5353 4293,5354 3960,5354 3960,5355 1628,5355 1628,5260"/>
+	<TextEquiv conf="0.92885">
+	<Unicode>"Das Aroma ist unbeschreiblich. Unsre Sprache hat keine</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="3060,5365 3060,5451 2732,5451 2732,5452 2403,5452 2403,5453 2075,5453 2075,5454 1417,5454 1417,5367 1416,5367 1416,5366 1417,5366 1417,5365"/>
+	<TextEquiv conf="0.95618">
+	<Unicode>Worte, es zu beschreiben."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="5019,5566 5019,5833 4667,5833 4667,5834 4314,5834 4314,5835 3962,5835 3962,5836 3609,5836 3609,5837 3257,5837 3257,5838 2904,5838 2904,5839 2551,5839 2551,5840 2199,5840 2199,5841 1846,5841 1846,5842 1494,5842 1494,5843 1493,5843 1493,5566"/>
+	<TextEquiv conf="0.95856">
+	<Unicode>Verstehst du den Satz "Ich bin hier", auch wenn du dich
+nicht darauf besinnst, bei welcher Gelegenheit dieser Satz
+verwendet wird?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="4961,5964 4961,6156 4615,6156 4615,6157 4268,6157 4268,6158 3922,6158 3922,6159 3575,6159 3575,6160 3229,6160 3229,6161 1495,6161 1495,5964"/>
+	<TextEquiv conf="0.95144">
+	<Unicode>"Es folgt aus der Natur der Negation, daß eine doppelte
+Verneinung eine Bejahung ergibt."</Unicode></TextEquiv></TextRegion></Page></PcGts>
